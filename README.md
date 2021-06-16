@@ -100,19 +100,19 @@ Following the completion of this course students should be able to:
 
 **Lesson I: Introduction to the evolving publishing landscape.** This lesson covers the history of scientific communication and the traditional publication process. Challenges with the current system and emerging solutions are then discussed as an introduction to the remaining lessons.
 
-[Lesson I lesson plan](./Lesson-I_Intro/Intro_Lesson-plan_052221.md):or in [GoogleDrive](https://docs.google.com/document/d/1MkGkcM_W-KV4cRrQJTNMmigrxw6bb2j8V74xTLggTVI/edit?usp=sharing)
+[Lesson I lesson plan](./Lesson-I_Intro/Intro_Lesson-plan_052221.md) or in [Google Drive](https://docs.google.com/document/d/1Z0bovMMKKU2yKR1fxsKp9rfi0icT9-VNZhj9GeX9_y0/edit?usp=sharing)
 
 **Lesson II: Understanding and engaging with preprints.** This lesson introduces preprints and their role in the scientific community, including a breakdown and discussion of key concerns. Finally, the lesson covers the components of a preprint and includes a guide on how to post a preprint.
 
-[Lesson II lesson plan](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-II_Preprints/Preprints_Lesson-plan_2021_05_29.md):or in [GoogleDrive](https://docs.google.com/document/d/1QKlC5jMlMz0QkHvQ_l3s1sKHOLdxbrCczQzNzhFyAAY/edit?usp=sharing)
+[Lesson II lesson plan](./Lesson-II_Preprints/Preprints_Lesson-plan_2021_05_29.md) or in [Google Drive](https://docs.google.com/document/d/1-AToN5uxBQfqutd9UqUvDB5yYsf3A_4njnnC3ig9iR0/edit?usp=sharing)
 
 **Lesson III: The editorial process and peer review.** This lesson details the editorial process at a journal and how preprints fit into that publishing pipeline. This includes the lifecycle of a manuscript, the peer-review process, post-acceptance steps and the advantages of preprint adoption for editors and publishers.
 
-[Lesson III lesson plan](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-IV_PeerReview_Editorial/PeerReview_Editorial_Lesson_Plan_20210524.md):or in [GoogleDrive](https://docs.google.com/document/d/12n1vWYDYZUJz5AOtTZiDBhPjk1QaxXEosFMUTktFVm8/edit?usp=sharing)
+[Lesson III lesson plan](./Lesson-IV_PeerReview_Editorial/PeerReview_Editorial_Lesson_Plan_20210524.md) or in [Google Drive](https://drive.google.com/file/d/10mT7j2u9qcPjpJA6INLDFeRHSfmM1YPP/view?usp=sharing)
 
 **Lesson IV: The communicating scientist: How to effectively and responsibly communicate scientific research.** Students will learn about the role of a scientist in scientific communication and the different platforms that can be used. This lesson provides an overview of how to adapt to different platforms and how to communicate preprints, and scientific findings in general, responsibly and effectively.
 
-[Lesson IV lesson plan](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Sci-Comm/SciComm_Lesson-plan_022821.md):or in [GoogleDrive](https://docs.google.com/document/d/1Fvi4_Bi0UTjCEk63aOvsJn78MnXhTx2vjg8fJagK7xk/edit?usp=sharing)
+[Lesson IV lesson plan](./Sci-Comm/SciComm_Lesson-plan_022821.md) or in [Google Drive](https://drive.google.com/file/d/1O1JWAebJarKVQP7jV9gC7h7U9y8G_IBJ/view?usp=sharing)
 
 
 # Suggested timetable

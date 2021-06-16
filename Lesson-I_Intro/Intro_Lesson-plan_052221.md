@@ -37,11 +37,11 @@
 
 1. PowerPoint slides
     1. Purpose: Prepared slides as a basis to design the lesson.
-    2. Link to [Slides](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Slides_052221.pdf) (Or alternatively [GoogleDrive](https://docs.google.com/presentation/d/1iEwO7fgG43yQ8dtHOaGI8CLOFqLJDZOj44jo3wYr81k/edit?usp=sharing))
+    2. Link to [Slides](./Intro_Slides_052221.pdf) (Or alternatively in [Google Drive](https://docs.google.com/presentation/d/1iEwO7fgG43yQ8dtHOaGI8CLOFqLJDZOj44jo3wYr81k/edit?usp=sharing))
 2. Manuscript Lifecyle illustrations
     1. Purpose: Visual aid to introduce the current publication process and broad topics of course. V2 presents preprinting and additional innovations as additional steps in the process.
-    2. V1 Description: Visualization of the traditional, journal-based publication process: ![Journal_based_publication](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Manuscript-lifecycle_V1.png "Journal_based_publication")
-    3. V2 Description: Preprinting + the traditional, journal-based publication process:![Preprinting & the traditional](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Manuscript-lifecycle_V2.png "Preprinting & the traditional")
+    2. V1 Description: Visualization of the traditional, journal-based publication process: ![Journal_based_publication](./Intro_Manuscript-lifecycle_V1.png "Journal_based_publication")
+    3. V2 Description: Preprinting + the traditional, journal-based publication process:![Preprinting & the traditional](./Intro_Manuscript-lifecycle_V2.png "Preprinting & the traditional")
 3. Brief Survey ***_Under Construction_***
     * Purpose: To assess understanding of the major concepts introduced in the lesson
 
