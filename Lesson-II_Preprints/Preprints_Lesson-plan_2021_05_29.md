@@ -38,10 +38,10 @@
 1. Material 1 - Guidelines for Preprints
     1. Best practices for each section of the manuscript
     2. Checklist for preprints for what needs to be accomplished in terms of data availability
-    3. [Preprints_Preprint-Guidelines](Lesson-II_Preprints/Preprints_Preprint-Guidelines_2021_05_29.md) ([Google drive](https://docs.google.com/document/d/1TxWqYefpFjb28kDYOLsNgWjoAYR73bnzUFgs8BABo94/edit?usp=sharing))
+    3. [Preprints_Preprint-Guidelines](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-II_Preprints/Preprints_Preprint-Guidelines_2021_05_29.md) ([Google drive](https://docs.google.com/document/d/1TxWqYefpFjb28kDYOLsNgWjoAYR73bnzUFgs8BABo94/edit?usp=sharing))
 2. Material 2 - Powerpoint slides corresponding to the Lesson Plan
     1. Educator can take these powerpoint slides and make the slides their own
-    2. [Link to Slides](Lesson-II_Preprints/Preprints_Slides_2021_05_29.pdf) ([Google drive](https://docs.google.com/presentation/d/1ljgRo0oTwMt7FL-5fhawTNzA6amaCIeDBzImwQQ5hrI/edit?usp=sharing))
+    2. [Link to Slides](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-II_Preprints/Preprints_Slides_2021_05_29.pdf) ([Google drive](https://docs.google.com/presentation/d/1ljgRo0oTwMt7FL-5fhawTNzA6amaCIeDBzImwQQ5hrI/edit?usp=sharing))
 3. Material 3 - Infographics of Preprints (created in 2020)
     1. Educator can hand out relevant information about preprints
     2. [Infographic_What are preprints?](https://asapbio.org/wp-content/uploads/2020/12/ASAPbio-what-are-preprints-english.pdf)

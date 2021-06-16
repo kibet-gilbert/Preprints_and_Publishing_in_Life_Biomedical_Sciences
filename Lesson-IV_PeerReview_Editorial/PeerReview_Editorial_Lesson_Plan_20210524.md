@@ -33,11 +33,11 @@
 
 
 1. **PowerPoint slides**
-    * [Link to Slides](Lesson-IV_PeerReview_Editorial/PeerReview_Editorial_20210524.pptx.pdf)
+    * [Link to Slides](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-IV_PeerReview_Editorial/PeerReview_Editorial_20210524.pptx.pdf)
 2. **Peer review training exercise**
-    * [Link to instructions](Lesson-IV_PeerReview_Editorial/PeerReview_Editorial_Teaching_Exercise_20210524.md)
+    * [Link to instructions](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-IV_PeerReview_Editorial/PeerReview_Editorial_Teaching_Exercise_20210524.md)
 3. **Sample peer reviewer code of ethics/peer reviewer oath**
-    * [Link to infographic](Lesson-IV_PeerReview_Editorial/Reviewer_Oath_20210524.md)
+    * [Link to infographic](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-IV_PeerReview_Editorial/Reviewer_Oath_20210524.md)
 
 **Lesson plan (~120 minutes):**
 

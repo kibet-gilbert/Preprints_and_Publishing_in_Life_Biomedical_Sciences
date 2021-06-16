@@ -32,4 +32,4 @@ Discuss or reflect post-class. Evidence of good, constructive peer review? Is th
 **References **
 
 
-    [1.	Polka, J. K. et al. Preprints in motion: tracking changes between posting and journal publication. bioRxiv 2021.02.20.432090 (2021) doi:10.1101/2021.02.20.432090.](https://www.zotero.org/google-docs/?SKceOk)
+[1.	Polka, J. K. et al. Preprints in motion: tracking changes between posting and journal publication. bioRxiv 2021.02.20.432090 (2021) doi:10.1101/2021.02.20.432090.](https://www.zotero.org/google-docs/?SKceOk)

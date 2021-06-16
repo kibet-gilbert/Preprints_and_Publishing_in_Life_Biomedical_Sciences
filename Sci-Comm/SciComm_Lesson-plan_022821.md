@@ -1,6 +1,6 @@
-**Title: **The communicating scientist: How to effectively and responsibly communicate scientific research
+**Title:** The communicating scientist: How to effectively and responsibly communicate scientific research
 
-**Main/Overall Objective:**To provide an overview of different platforms used for scientific communication and how to communicate responsibly and appropriately for different audiences. 
+**Main/Overall Objective:** To provide an overview of different platforms used for scientific communication and how to communicate responsibly and appropriately for different audiences. 
 
 **Section Content:**
 
@@ -11,25 +11,25 @@
     2. Understand the requirement of communicating scientific findings as part of being a scientist and from funding bodies
     3. Appreciate the role of scientific communication at different stages in the publishing process from preprint to published article
 2. **Develop awareness of the different scientific communication platforms and how to utilise these**
-    4. Understand the pros and cons of each of the major platforms
-    5. Learn the key skills required to perform effective communication across different platforms 
-    6. Practice scientific communication for platforms such as Twitter and Youtube
+    1. Understand the pros and cons of each of the major platforms
+    2. Learn the key skills required to perform effective communication across different platforms 
+    3. Practice scientific communication for platforms such as Twitter and Youtube
 3. **Understand how to adapt content and communication style to different audiences**
-    7. Appreciate that non-specialist audiences require different language and presentation than specialist audiences
-    8. Understand how different platforms lend themselves to particular audiences better than others
+    1. Appreciate that non-specialist audiences require different language and presentation than specialist audiences
+    2. Understand how different platforms lend themselves to particular audiences better than others
 4. **Understand how to appropriately share science from other groups and combat misinformation and poor science**
-    9. Consider best practices for sharing the science of other groups, such as including appropriate caveats and warnings where necessary 
-    10. Appreciate the importance of reading and “vetting” articles prior to sharing on social media
-    11. Develop skills in combating misinformation and the incorrect use of particular articles
+    1. Consider best practices for sharing the science of other groups, such as including appropriate caveats and warnings where necessary 
+    2. Appreciate the importance of reading and “vetting” articles prior to sharing on social media
+    3. Develop skills in combating misinformation and the incorrect use of particular articles
 
 **Materials:**
 
 
 
 *   Powerpoint Slides
-    *   [Link to Slides]():[Googledrive](https://docs.google.com/presentation/d/1CJVXantlZOcyBk_sZaoMkI4_ztXpYCM0zX5wQNkLfX0/edit?usp=sharing)
+    *   [Link to Slides](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Sci-Comm/SciComm_Slides_022821.pptx.pdf) (Or in [Google Drive:](https://docs.google.com/presentation/d/1CJVXantlZOcyBk_sZaoMkI4_ztXpYCM0zX5wQNkLfX0/edit?usp=sharing)
 *   Infographic - why scicomm?
-    *   [Link]():[Googledrive](https://drive.google.com/file/d/1pd_ER_3MDijs0J9FaN3LK-bjoKfRwR3_/view?usp=sharing)
+    *   [Link]():[Google Drive](https://drive.google.com/file/d/1pd_ER_3MDijs0J9FaN3LK-bjoKfRwR3_/view?usp=sharing)
 *    Example twitter threads (real or mock)
     *   For when you release a new preprint/paper (twitter thread example)
 *   “How I work” type blog posts
