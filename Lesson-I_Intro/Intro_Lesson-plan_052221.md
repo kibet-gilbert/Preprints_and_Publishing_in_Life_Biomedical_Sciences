@@ -1,4 +1,4 @@
-**Title:** Introduction to the evolving publication landscape
+   **Title:** Introduction to the evolving publication landscape
 
 **Main/Overall Objective:** The overall objective of this lesson is to: 1) introduce the importance of communication in achieving scientific progress (what is the purpose of publishing?), the history behind the scientific publication system (how did the current publishing process start?), and the current, traditional journal-based publication process (how does the current publishing process work?); 2) discuss challenges in the current, traditional journal-based publication process and introduce emerging innovations in scientific communication, such as preprinting, that provide solutions to these challenges and, finally 3) introduce how these new approaches to scientific communication can integrate with the traditional, journal-based publication process. Additionally, the full scope and goals of the course will be discussed as an introduction to the topics covered in the subsequent lessons. The end of the lesson presents a discussion to understand each student’s experience with the publication process and poses a thought experiment discussion to promote critical thinking and independent problem solving to the challenges in the current traditional publication process.
 
@@ -41,13 +41,7 @@
 2. Manuscript Lifecyle illustrations
     1. Purpose: Visual aid to introduce the current publication process and broad topics of course. V2 presents preprinting and additional innovations as additional steps in the process.
     2. V1 Description: Visualization of the traditional, journal-based publication process: ![Journal_based_publication](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Manuscript-lifecycle_V1.png "Journal_based_publication")
-    [Link](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Manuscript-lifecycle_V1.png) ([GoogleDrive](https://drive.google.com/file/d/1fPVrSosnCwae0vrSQoXLh_vsrI_r7CeG/view?usp=sharing))
-
-    <p style="text-align: right">
-    <img src="Lesson-II_Preprints/Intro_Manuscript-lifecycle_V1.png" width="" alt="Journal_based_publication" title="image_tooltip">
-    </p>
-
-    3. V2 Description: Preprinting + the traditional, journal-based publication process [Link](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Manuscript-lifecycle_V2.png) ([GoogleDrive](https://drive.google.com/file/d/1Gz_MENDbJ9w-e_ri5xmcuCb9g7ZLv5Qg/view?usp=sharing))
+    3. V2 Description: Preprinting + the traditional, journal-based publication process:![Preprinting & the traditional](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Manuscript-lifecycle_V1.png "Preprinting & the traditional")
 3. Brief Survey ***_Under Construction_***
     1. Purpose: To assess understanding of the major concepts introduced in the lesson
 
@@ -174,7 +168,7 @@ Manuscript lifecycle illustration_V2
 </table>
 
 
-**Reflection: **
+**Reflection:**
 
 
 
@@ -182,7 +176,7 @@ Manuscript lifecycle illustration_V2
 2. Discussion #2: How might you design a communication process to advance scientific progress?
 3. Brief Survey ***_Under Construction_***
 
-**Resources: **
+**Resources:**
 
 
 
