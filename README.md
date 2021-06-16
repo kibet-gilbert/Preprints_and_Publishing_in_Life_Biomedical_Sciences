@@ -3,9 +3,6 @@
 <p style="text-align: right">
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
 </p>
 
@@ -105,19 +102,19 @@ Following the completion of this course students should be able to:
 
 **Lesson I: Introduction to the evolving publishing landscape.** This lesson covers the history of scientific communication and the traditional publication process. Challenges with the current system and emerging solutions are then discussed as an introduction to the remaining lessons.  
 
-[Link to lesson plan]():[Googledrive](https://docs.google.com/document/d/1MkGkcM_W-KV4cRrQJTNMmigrxw6bb2j8V74xTLggTVI/edit?usp=sharing)
+[Link to lesson plan](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Lesson-plan_052221.md):or in [GoogleDrive](https://docs.google.com/document/d/1MkGkcM_W-KV4cRrQJTNMmigrxw6bb2j8V74xTLggTVI/edit?usp=sharing)
 
 **Lesson II: Understanding and engaging with preprints. **This lesson introduces preprints and their role in the scientific community, including a breakdown and discussion of key concerns. Finally, the lesson covers the components of a preprint and includes a guide on how to post a preprint. 
 
-[Link to lesson plan]():[Googledrive](https://docs.google.com/document/d/1QKlC5jMlMz0QkHvQ_l3s1sKHOLdxbrCczQzNzhFyAAY/edit?usp=sharing)
+[Link to lesson plan](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-II_Preprints/Preprints_Lesson-plan_2021_05_29.md):or in [GoogleDrive](https://docs.google.com/document/d/1QKlC5jMlMz0QkHvQ_l3s1sKHOLdxbrCczQzNzhFyAAY/edit?usp=sharing)
 
 **Lesson III: The editorial process and peer review. **This lesson details the editorial process at a journal and how preprints fit into that publishing pipeline. This includes the lifecycle of a manuscript, the peer-review process, post-acceptance steps and the advantages of preprint adoption for editors and publishers.
 
-	[Link to lesson plan](https://docs.google.com/document/d/12n1vWYDYZUJz5AOtTZiDBhPjk1QaxXEosFMUTktFVm8/edit?usp=sharing)
+[Link to lesson plan](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-IV_PeerReview_Editorial/PeerReview_Editorial_Lesson_Plan_20210524.md):or in [GoogleDrive](https://docs.google.com/document/d/12n1vWYDYZUJz5AOtTZiDBhPjk1QaxXEosFMUTktFVm8/edit?usp=sharing)
 
 **Lesson IV: The communicating scientist: How to effectively and responsibly communicate scientific research. **Students will learn about the role of a scientist in scientific communication and the different platforms that can be used. This lesson provides an overview of how to adapt to different platforms and how to communicate preprints, and scientific findings in general, responsibly and effectively. 
 
-[Link to lesson plan]():[Googledrive](https://docs.google.com/document/d/1Fvi4_Bi0UTjCEk63aOvsJn78MnXhTx2vjg8fJagK7xk/edit?usp=sharing)
+[Link to lesson plan](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Sci-Comm/SciComm_Lesson-plan_022821.md):or in [GoogleDrive](https://docs.google.com/document/d/1Fvi4_Bi0UTjCEk63aOvsJn78MnXhTx2vjg8fJagK7xk/edit?usp=sharing)
 
 
 # Suggested timetable
