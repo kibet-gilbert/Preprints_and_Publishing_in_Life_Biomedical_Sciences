@@ -25,7 +25,7 @@
     1. Publishing in the digital age
     2. New approaches the publishing: preprint servers
     3. New approaches to peer review
-    4. Transitioning:** **Integration of new approaches with the traditional, journal-dependent publication process
+    4. Transitioning: Integration of new approaches with the traditional, journal-dependent publication process
 6. **Introduction to the lessons of the course**
 7. **Discussion #1:** What has your experience been (good and bad) with the traditional, journal-based process?
 8. **Discussion #2: **How might you design a communication process to advance scientific progress?**  **
@@ -40,8 +40,8 @@
     2. Link to [Slides](./Intro_Slides_052221.pdf) (Or alternatively in [Google Drive](https://docs.google.com/presentation/d/1sdJOiB-qUBY9PDHmymHrAxmabq_jVd2qZNF7S0Syc-I/edit?usp=sharing))
 2. Manuscript Lifecyle illustrations
     1. Purpose: Visual aid to introduce the current publication process and broad topics of course. V2 presents preprinting and additional innovations as additional steps in the process.
-    2. V1 Description: Visualization of the traditional, journal-based publication process: ![Journal_based_publication](./Intro_Manuscript-lifecycle_V1.png "Journal_based_publication")
-    3. V2 Description: Preprinting + the traditional, journal-based publication process:![Preprinting & the traditional](./Intro_Manuscript-lifecycle_V2.png "Preprinting & the traditional")
+    2. V1 Description: Visualization of the traditional, journal-based publication process: ![Journal_based_publication](Intro_Manuscript-lifecycle_V1.png "Journal_based_publication")
+    3. V2 Description: Preprinting + the traditional, journal-based publication process:![Preprinting & the traditional](Intro_Manuscript-lifecycle_V2.png "Preprinting & the traditional")
 3. Brief Survey ***_Under Construction_***
     * Purpose: To assess understanding of the major concepts introduced in the lesson
 

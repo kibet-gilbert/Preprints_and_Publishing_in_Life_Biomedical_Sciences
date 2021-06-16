@@ -27,9 +27,9 @@
 
 
 *   Powerpoint Slides
-    *   [Link to Slides](./SciComm_Slides_022821.pptx.pdf) (Also available in [Google Drive:](https://drive.google.com/file/d/1lf8r3rPu2diqyvS4890C8aMuLh4G9d1t/view?usp=sharing)
+    *   [Link to Slides](./SciComm_Slides_022821.pptx.pdf) (Also available in [Google Drive](https://drive.google.com/file/d/1lf8r3rPu2diqyvS4890C8aMuLh4G9d1t/view?usp=sharing))
 *   Infographic - why scicomm?
-    *   [Link]():[Google Drive](https://drive.google.com/file/d/1pd_ER_3MDijs0J9FaN3LK-bjoKfRwR3_/view?usp=sharing)
+    *   [Link]() (Also available in [Google Drive](https://drive.google.com/file/d/1pd_ER_3MDijs0J9FaN3LK-bjoKfRwR3_/view?usp=sharing))
 *    Example twitter threads (real or mock)
     *   For when you release a new preprint/paper (twitter thread example)
 *   “How I work” type blog posts
