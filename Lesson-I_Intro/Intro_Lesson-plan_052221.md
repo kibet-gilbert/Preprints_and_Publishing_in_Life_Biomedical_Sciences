@@ -13,19 +13,19 @@
     2. CRISPR gene editing revolution required effective communication over time and space
     3. Thought experiment: does more communication lead to more scientific progress?
 3. **The history of scientific communication and how the current, journal-based publication process works**
-    4. Origins and evolution of the academic journal
-    5. Traditional communication through academic publishers and scientific journals
-    6. Introduction to key steps in the current traditional, journal-based publication process
+    1. Origins and evolution of the academic journal
+    2. Traditional communication through academic publishers and scientific journals
+    3. Introduction to key steps in the current traditional, journal-based publication process
 4. **Challenges within the current publication system**
-    7. Increases in time to publication – authors and the process
-    8. The rising costs to publish in academic journals
-    9. The rising costs of subscriptions to access scientific progress in journals
-    10. Unintended consequences: What is the impact to scientific progress? – CRISPR example
+    1. Increases in time to publication – authors and the process
+    2. The rising costs to publish in academic journals
+    3. The rising costs of subscriptions to access scientific progress in journals
+    4. Unintended consequences: What is the impact to scientific progress? – CRISPR example
 5. **Emerging solutions and innovations in scientific communication**
-    11. Publishing in the digital age
-    12. New approaches the publishing: preprint servers
-    13. New approaches to peer review
-    14. Transitioning:** **Integration of new approaches with the traditional, journal-dependent publication process
+    1. Publishing in the digital age
+    2. New approaches the publishing: preprint servers
+    3. New approaches to peer review
+    4. Transitioning:** **Integration of new approaches with the traditional, journal-dependent publication process
 6. **Introduction to the lessons of the course**
 7. **Discussion #1:** What has your experience been (good and bad) with the traditional, journal-based process?
 8. **Discussion #2: **How might you design a communication process to advance scientific progress?**  **
@@ -37,7 +37,7 @@
 
 1. PowerPoint slides
     1. Purpose: Prepared slides as a basis to design the lesson.
-    2. Link to [Slides](./Intro_Slides_052221.pdf) (Or alternatively in [Google Drive](https://docs.google.com/presentation/d/1iEwO7fgG43yQ8dtHOaGI8CLOFqLJDZOj44jo3wYr81k/edit?usp=sharing))
+    2. Link to [Slides](./Intro_Slides_052221.pdf) (Or alternatively in [Google Drive](https://docs.google.com/presentation/d/1sdJOiB-qUBY9PDHmymHrAxmabq_jVd2qZNF7S0Syc-I/edit?usp=sharing))
 2. Manuscript Lifecyle illustrations
     1. Purpose: Visual aid to introduce the current publication process and broad topics of course. V2 presents preprinting and additional innovations as additional steps in the process.
     2. V1 Description: Visualization of the traditional, journal-based publication process: ![Journal_based_publication](./Intro_Manuscript-lifecycle_V1.png "Journal_based_publication")

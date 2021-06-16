@@ -1,4 +1,5 @@
-# Preprints and Publishing in the Life and Biomedical Sciences: a 4-lesson course on preprints, the traditional journal-dependent publication process, and the future of academic publishing
+# Preprints and Publishing in the Life and Biomedical Sciences: 
+a 4-lesson course on preprints, the traditional journal-dependent publication process, and the future of academic publishing
 
 <p style="text-align: right">
 <img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">

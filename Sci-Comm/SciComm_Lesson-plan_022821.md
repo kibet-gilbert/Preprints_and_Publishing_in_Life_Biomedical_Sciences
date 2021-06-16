@@ -27,7 +27,7 @@
 
 
 *   Powerpoint Slides
-    *   [Link to Slides](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Sci-Comm/SciComm_Slides_022821.pptx.pdf) (Or in [Google Drive:](https://docs.google.com/presentation/d/1CJVXantlZOcyBk_sZaoMkI4_ztXpYCM0zX5wQNkLfX0/edit?usp=sharing)
+    *   [Link to Slides](./SciComm_Slides_022821.pptx.pdf) (Also available in [Google Drive:](https://drive.google.com/file/d/1lf8r3rPu2diqyvS4890C8aMuLh4G9d1t/view?usp=sharing)
 *   Infographic - why scicomm?
     *   [Link]():[Google Drive](https://drive.google.com/file/d/1pd_ER_3MDijs0J9FaN3LK-bjoKfRwR3_/view?usp=sharing)
 *    Example twitter threads (real or mock)
