@@ -1,4 +1,4 @@
-# Preprints and Publishing in the Life and Biomedical Sciences: 
+# Preprints and Publishing in the Life and Biomedical Sciences:
 a 4-lesson course on preprints, the traditional journal-dependent publication process, and the future of academic publishing
 
 <p style="text-align: right">
@@ -109,11 +109,11 @@ Following the completion of this course students should be able to:
 
 **Lesson III: The editorial process and peer review.** This lesson details the editorial process at a journal and how preprints fit into that publishing pipeline. This includes the lifecycle of a manuscript, the peer-review process, post-acceptance steps and the advantages of preprint adoption for editors and publishers.
 
-[Lesson III lesson plan](./Lesson-IV_PeerReview_Editorial/PeerReview_Editorial_Lesson_Plan_20210524.md) or in [Google Drive](https://drive.google.com/file/d/10mT7j2u9qcPjpJA6INLDFeRHSfmM1YPP/view?usp=sharing)
+[Lesson III lesson plan](./Lesson-III_PeerReview_Editorial/PeerReview_Editorial_Lesson_Plan_20210524.md) or in [Google Drive](https://drive.google.com/file/d/10mT7j2u9qcPjpJA6INLDFeRHSfmM1YPP/view?usp=sharing)
 
 **Lesson IV: The communicating scientist: How to effectively and responsibly communicate scientific research.** Students will learn about the role of a scientist in scientific communication and the different platforms that can be used. This lesson provides an overview of how to adapt to different platforms and how to communicate preprints, and scientific findings in general, responsibly and effectively.
 
-[Lesson IV lesson plan](./Sci-Comm/SciComm_Lesson-plan_022821.md) or in [Google Drive](https://drive.google.com/file/d/1O1JWAebJarKVQP7jV9gC7h7U9y8G_IBJ/view?usp=sharing)
+[Lesson IV lesson plan](./Lesson-IV_Sci-Comm/SciComm_Lesson-plan_022821.md) or in [Google Drive](https://drive.google.com/file/d/1O1JWAebJarKVQP7jV9gC7h7U9y8G_IBJ/view?usp=sharing)
 
 
 # Suggested timetable
