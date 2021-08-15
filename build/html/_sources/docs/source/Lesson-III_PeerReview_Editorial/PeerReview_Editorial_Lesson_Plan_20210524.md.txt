@@ -1,9 +1,8 @@
-# **Title:** The editorial process and peer review
+**Title:** The editorial process and peer review
 
-## **Main/Overall Objective:**
-The goal of this lesson is to provide an overview of the manuscript lifecycle at a scholarly journal with an in-depth focus on the editorial process and peer review, and the advantages of incorporating preprints into the workflow. At the end of this module, students should be familiar with how editors make the decisions about publication, how does peer review work and best practices, and how the peer review process can be reimaged with preprints.
+**Main/Overall Objective:** The goal of this lesson is to provide an overview of the manuscript lifecycle at a scholarly journal with an in-depth focus on the editorial process and peer review, and the advantages of incorporating preprints into the workflow. At the end of this module, students should be familiar with how editors make the decisions about publication, how does peer review work and best practices, and how the peer review process can be reimaged with preprints.
 
-## **Section Content:**
+**Section Content:**
 
 
 
@@ -29,7 +28,7 @@ The goal of this lesson is to provide an overview of the manuscript lifecycle at
 6. **Exercise #1:** Be the editor
 7. **Exercise #2:** Be the peer reviewer
 
-## **Materials:**
+**Materials:**
 
 
 
@@ -40,7 +39,7 @@ The goal of this lesson is to provide an overview of the manuscript lifecycle at
 3. **Sample peer reviewer code of ethics/peer reviewer oath**
     * [Link to infographic](./Reviewer_Oath_20210524.md) (Also available in [Google Drive](https://docs.google.com/document/d/17c9vRjijcvjmO8dkNurA7ImhPbgt9Q3cbTEOo6YGVKI/edit?usp=sharing))
 
-## **Lesson plan (~120 minutes):**
+**Lesson plan (~120 minutes):**
 
 Order/flow of lesson, the suggested order of doing things and associated materials for each section
 
@@ -131,14 +130,14 @@ Reviewer oath
 </table>
 
 
-## **Reflection:**
+**Reflection: **
 
 
 
 *   Concerning the manuscript lifecycle, what are the benefits of adopting preprints?
 *   Why would a journal have an editorial board? What do you think are the biggest challenges a scientific editor faces when handling manuscripts?
 
-## **Resources:**
+**Resources: **
 
 The Editorial Process
 
@@ -161,7 +160,7 @@ The Editorial Process
 15. [https://libguides.victoria.ac.nz/c.php?g=622049&p=4333507](https://libguides.victoria.ac.nz/c.php?g=622049&p=4333507)
 16. [https://brookesoa.blog/open-access/the-different-models-of-open-access/](https://brookesoa.blog/open-access/the-different-models-of-open-access/)
 
-## **Authors:**
+**Authors:**
 
 Gautam Dey ([gautam.dey@embl.de](mailto:gautam.dey@embl.de))
 

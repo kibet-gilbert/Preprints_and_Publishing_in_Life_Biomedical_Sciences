@@ -1,9 +1,8 @@
-# **Title:** The communicating scientist: How to effectively and responsibly communicate scientific research
+**Title:** The communicating scientist: How to effectively and responsibly communicate scientific research
 
-## **Main/Overall Objective:**
-To provide an overview of different platforms used for scientific communication and how to communicate responsibly and appropriately for different audiences.
+**Main/Overall Objective:** To provide an overview of different platforms used for scientific communication and how to communicate responsibly and appropriately for different audiences.
 
-## **Section Content:**
+**Section Content:**
 
 
 
@@ -23,7 +22,7 @@ To provide an overview of different platforms used for scientific communication 
     2. Appreciate the importance of reading and “vetting” articles prior to sharing on social media
     3. Develop skills in combating misinformation and the incorrect use of particular articles
 
-## **Materials:**
+**Materials:**
 
 
 
@@ -35,7 +34,7 @@ To provide an overview of different platforms used for scientific communication 
     *   For when you release a new preprint/paper (twitter thread example)
 *   “How I work” type blog posts
 
-## **Lesson plan**
+**Lesson plan**
 
 Lessons should take approximately 2 hours for material delivery and completion of discussion topics.
 
@@ -138,29 +137,47 @@ Summarise the different platforms available and when each should be used
 </table>
 
 
-## **Reflection:**
+**Reflection:**
+
+
+
 *   Which platform is preferred, why?
 *   Thoughts on whose role sci-comm is?
-*   Discussion topics (incl questions to drive discussion):
+
+ Discussion topics (incl questions to drive discussion):
+
+
+
 *   Press releases and preprints - is this appropriate or should we wait until work has been peer-reviewed?
 *   Scientific communication as part of being a scientist - whose job is it and why?
 
-## **Resources:**
+**Resources:**
 
 Twitter thread example  - [https://twitter.com/JACoates91/status/1264505600538488832?s=20](https://twitter.com/JACoates91/status/1264505600538488832?s=20)
+
 Additional Twitter thread examples:
+
 Youtube video example - [https://www.youtube.com/watch?v=frsYEt3GAhA&feature=emb_title](https://www.youtube.com/watch?v=frsYEt3GAhA&feature=emb_title)
+
 How to make a youtube whiteboard video - [https://www.youtube.com/watch?v=H-Lod8oHOZ4](https://www.youtube.com/watch?v=H-Lod8oHOZ4)
+
 Guiding principles - [https://asapbio.org/public](https://asapbio.org/public)
+
 How I work blog posts - [https://lifehacker.com/c/how-i-work](https://lifehacker.com/c/how-i-work)
+
 How I work twitter account (specific to science productivity tips and tricks) - @howiwork_sci
+
 COVID vaccine communication handbook - [https://hackmd.io/@scibehC19vax/home](https://hackmd.io/@scibehC19vax/home)
+
 Preprints and the media - [https://kuleuvenblogt.be/2020/04/01/we-need-to-talk-about-preprints-how-not-to-deal-with-media/](https://kuleuvenblogt.be/2020/04/01/we-need-to-talk-about-preprints-how-not-to-deal-with-media/)
+
 On being a scientist A guide to responsible conduct in research - [https://www.nap.edu/download/12192](https://www.nap.edu/download/12192)
 
-Scientific communication guide [https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436](https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436)
+Scientific communication guide
 
-## **Author:**
+[https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436](https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436)
+
+**Author:**
 
 Jonny Coates
 

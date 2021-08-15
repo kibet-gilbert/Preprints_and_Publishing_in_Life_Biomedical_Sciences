@@ -1,9 +1,8 @@
-   # **Title:** Introduction to the evolving publication landscape
+   **Title:** Introduction to the evolving publication landscape
 
-## **Main/Overall Objective:**
-The overall objective of this lesson is to: 1) introduce the importance of communication in achieving scientific progress (what is the purpose of publishing?), the history behind the scientific publication system (how did the current publishing process start?), and the current, traditional journal-based publication process (how does the current publishing process work?); 2) discuss challenges in the current, traditional journal-based publication process and introduce emerging innovations in scientific communication, such as preprinting, that provide solutions to these challenges and, finally 3) introduce how these new approaches to scientific communication can integrate with the traditional, journal-based publication process. Additionally, the full scope and goals of the course will be discussed as an introduction to the topics covered in the subsequent lessons. The end of the lesson presents a discussion to understand each student’s experience with the publication process and poses a thought experiment discussion to promote critical thinking and independent problem solving to the challenges in the current traditional publication process.
+**Main/Overall Objective:** The overall objective of this lesson is to: 1) introduce the importance of communication in achieving scientific progress (what is the purpose of publishing?), the history behind the scientific publication system (how did the current publishing process start?), and the current, traditional journal-based publication process (how does the current publishing process work?); 2) discuss challenges in the current, traditional journal-based publication process and introduce emerging innovations in scientific communication, such as preprinting, that provide solutions to these challenges and, finally 3) introduce how these new approaches to scientific communication can integrate with the traditional, journal-based publication process. Additionally, the full scope and goals of the course will be discussed as an introduction to the topics covered in the subsequent lessons. The end of the lesson presents a discussion to understand each student’s experience with the publication process and poses a thought experiment discussion to promote critical thinking and independent problem solving to the challenges in the current traditional publication process.
 
-## **Section Content:**
+**Section Content:**
 
 
 
@@ -32,7 +31,7 @@ The overall objective of this lesson is to: 1) introduce the importance of commu
 8. **Discussion #2: **How might you design a communication process to advance scientific progress?**  **
 9. **Brief Survey *****_Under Construction_***
 
-## **Materials:**
+**Materials:**
 
 
 
@@ -46,7 +45,7 @@ The overall objective of this lesson is to: 1) introduce the importance of commu
 3. Brief Survey ***_Under Construction_***
     * Purpose: To assess understanding of the major concepts introduced in the lesson
 
-## **Lesson plan (~75 minutes):**
+**Lesson plan (~75 minutes):**
 
 Order/flow of lesson - the suggested order of doing things and associated materials for each section. Blocks are suggested for lessons with shorter durations (~30 mins).
 
@@ -169,7 +168,7 @@ Manuscript lifecycle illustration_V2
 </table>
 
 
-## **Reflection:**
+**Reflection:**
 
 
 
@@ -177,7 +176,7 @@ Manuscript lifecycle illustration_V2
 2. Discussion #2: How might you design a communication process to advance scientific progress?
 3. Brief Survey ***_Under Construction_***
 
-## **Resources:**
+**Resources:**
 
 
 
@@ -189,7 +188,7 @@ Manuscript lifecycle illustration_V2
 6. [https://jamanetwork.com/journals/jama/article-abstract/202114](https://jamanetwork.com/journals/jama/article-abstract/202114)
 7. [https://doi.org/10.3389/fncom.2012.00019](https://doi.org/10.3389/fncom.2012.00019)
 
-## **Author:**
+**Author:**
 
 Tara Fischer
 

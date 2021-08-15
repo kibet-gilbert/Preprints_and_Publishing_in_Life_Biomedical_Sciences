@@ -1,4 +1,4 @@
-## **A sample reviewer’s oath**
+**A sample reviewer’s oath**
 
 
 1. I will always review papers as I would like my own papers to be reviewed.
@@ -16,9 +16,9 @@
 13. I will always disclose and credit colleagues who co-reviewed with me.
 14. I will (will not) sign my reviews.
 
-### Modified and reproduced from, under a CC BY-NC-SA 3.0 license: 
+Modified and reproduced from, under a CC BY-NC-SA 3.0 license: \
 [https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-05-0273](https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-05-0273)  \
 This article is distributed by The American Society for Cell Biology under license from the author(s). Two months after publication it was made available to the public under an Attribution–Noncommercial–Share Alike 3.0 Unported Creative Commons License ([http://creativecommons.org/licenses/by-nc-sa/3.0](http://creativecommons.org/licenses/by-nc-sa/3.0)).
 
-### Additional reading:
+Additional reading:  \
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4304228/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4304228/)

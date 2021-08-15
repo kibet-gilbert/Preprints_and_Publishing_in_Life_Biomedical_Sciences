@@ -1,9 +1,8 @@
-# **Title:** Understanding and Engaging with Preprints
+**Title:** Understanding and Engaging with Preprints
 
-## **Main/overall objective:**
-By establishing what is a preprint and discussing the advantages and potential consequences of preprints to both science and scientists, participants can better understand how preprinting can integrate into the traditional journal-based system. Additionally, we will learn what we need to know and consider before preprinting, and how to post your preprint with a practical, step-by-step guide.
+**Main/overall objective:** By establishing what is a preprint and discussing the advantages and potential consequences of preprints to both science and scientists, participants can better understand how preprinting can integrate into the traditional journal-based system. Additionally, we will learn what we need to know and consider before preprinting, and how to post your preprint with a practical, step-by-step guide.
 
-## **Section Content:**
+**Section Content:**
 
 
 
@@ -33,7 +32,7 @@ By establishing what is a preprint and discussing the advantages and potential c
     2. Links to deposited data and code
 6. **Discussion #1**: Are preprints a good platform as compared to traditional publishing? What are the top concerns or benefits of preprints according to the students?
 
-## **Materials:**
+**Materials:**
 
 
 1. Material 1 - Guidelines for Preprints
@@ -51,7 +50,7 @@ By establishing what is a preprint and discussing the advantages and potential c
     5. [Infographic_Licenses: How Open is your preprint?](https://asapbio.org/licensing-faq/licensing-diagram-v2019-08-04)
     6. More information found here: [https://asapbio.org/infographics](https://asapbio.org/infographics)** **
 
-## **Lesson plan (~85 minutes):**
+**Lesson plan (~85 minutes):**
 
 Order/flow of lesson, the suggested order of doing things and associated materials for each section
 
@@ -126,14 +125,14 @@ Guidelines for Preprints
 </table>
 
 
-## **Reflection:**
+**Reflection:**
 
 
 
 1. Key questions to ask at the end to test that the objectives have been met, e.g. do the students feel that preprints are a good platform compared to traditional publishing?
     * Idea is to have a little bit of a discussion to recap what was learnt.
 
-## **Resources:**
+**Resources:**
 
 
 
@@ -143,7 +142,7 @@ Guidelines for Preprints
 *   [2020-10-19 Polka OA week](https://docs.google.com/presentation/d/1K4oXMTVPFOi9T-wyIZG1WXDrjfit4wQFKMZQk3i6-SY/edit#slide=id.g910196faf0_0_200)
 *   [Licensing diagram – v2019-08-04 – ASAPbio](https://asapbio.org/licensing-faq/licensing-diagram-v2019-08-04)
 
-## **Authors:**
+**Authors:**
 
 Aleksandra Petelski & Gilbert Kibet-Rono
 
