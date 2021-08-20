@@ -42,7 +42,7 @@ The overall objective of this lesson is to: 1) introduce the importance of commu
 2. Manuscript Lifecyle illustrations
     1. Purpose: Visual aid to introduce the current publication process and broad topics of course. V2 presents preprinting and additional innovations as additional steps in the process.
     2. V1 Description: Visualization of the traditional, journal-based publication process: ![<img src="_images/Intro_Manuscript-lifecycle_V1.png" width="708.5px;" alt="Journal-based_publication_image"/>](Intro_Manuscript-lifecycle_V1.png)
-    3. V2 Description: Preprinting + the traditional, journal-based publication process:![Preprinting & the traditional](Intro_Manuscript-lifecycle_V2.png "Preprinting & the traditional"){: style="height:36px; width:36px"}.
+    3. V2 Description: Preprinting + the traditional, journal-based publication process:![Preprinting & the traditional](Intro_Manuscript-lifecycle_V2.png "Preprinting & the traditional").
 3. Brief Survey ***_Under Construction_***
     * Purpose: To assess understanding of the major concepts introduced in the lesson
 

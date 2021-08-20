@@ -16,19 +16,19 @@ Course authors
 
    * - Tara Fischer
      - tfisch17@gmail.com
-   * - Gautam Dey 
-     - gautam.dey@embl.de 
-   * - Jonny Coates 
-     - Jonathon.coates@qmul.ac.uk 
-   * - Aleksandra Petelski 
-     - aleksandra.petelski@gmail.com 
-   * - Vanessa Bortoluzzi 
-     - vbortoluzzi@gmail.com 
-   * - Gilbert Kibet-Rono 
-     - kibet.gilbert@ymail.com 
-   * - Iratxe Puebla 
-     - iratxe.puebla@asapbio.org 
-     
+   * - Gautam Dey
+     - gautam.dey@embl.de
+   * - Jonny Coates
+     - Jonathon.coates@qmul.ac.uk
+   * - Aleksandra Petelski
+     - aleksandra.petelski@gmail.com
+   * - Vanessa Bortoluzzi
+     - vbortoluzzi@gmail.com
+   * - Gilbert Kibet-Rono
+     - kibet.gilbert@ymail.com
+   * - Iratxe Puebla
+     - iratxe.puebla@asapbio.org
+
 Acknowledgments
 ===============
 Plinio Casarotto
@@ -58,7 +58,7 @@ Table of Contents
 
    Lesson-IV: Scientific Communication <Lesson-IV_Sci-Comm/SciComm_Lesson-plan_022821.md>
 
-   Resources <Resources/*>
+   Other Resources <Resources/Resources.md>
 
 Suggested timetable
 ===================
