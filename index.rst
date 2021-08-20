@@ -58,7 +58,7 @@ Table of Contents
 
    Lesson-IV: Scientific Communication <Lesson-IV_Sci-Comm/SciComm_Lesson-plan_022821.md>
 
-   Other Resources <Resources/Resources.md>
+   Other Resources <Resources/README.md>
 
 Suggested timetable
 ===================
