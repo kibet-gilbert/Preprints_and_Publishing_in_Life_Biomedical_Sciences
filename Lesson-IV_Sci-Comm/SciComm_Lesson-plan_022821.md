@@ -148,7 +148,8 @@ Summarise the different platforms available and when each should be used
 ## **Resources:**
 
 Twitter thread example  - [https://twitter.com/JACoates91/status/1264505600538488832?s=20](https://twitter.com/JACoates91/status/1264505600538488832?s=20)
-Additional Twitter thread examples:
+
+**Additional Twitter thread examples:**
 Youtube video example - [https://www.youtube.com/watch?v=frsYEt3GAhA&feature=emb_title](https://www.youtube.com/watch?v=frsYEt3GAhA&feature=emb_title)
 How to make a youtube whiteboard video - [https://www.youtube.com/watch?v=H-Lod8oHOZ4](https://www.youtube.com/watch?v=H-Lod8oHOZ4)
 Guiding principles - [https://asapbio.org/public](https://asapbio.org/public)
@@ -158,7 +159,7 @@ COVID vaccine communication handbook - [https://hackmd.io/@scibehC19vax/home](ht
 Preprints and the media - [https://kuleuvenblogt.be/2020/04/01/we-need-to-talk-about-preprints-how-not-to-deal-with-media/](https://kuleuvenblogt.be/2020/04/01/we-need-to-talk-about-preprints-how-not-to-deal-with-media/)
 On being a scientist A guide to responsible conduct in research - [https://www.nap.edu/download/12192](https://www.nap.edu/download/12192)
 
-Scientific communication guide [https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436](https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436)
+Scientific communication guide [https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436](https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436)  
 
 ## **Author:**
 
