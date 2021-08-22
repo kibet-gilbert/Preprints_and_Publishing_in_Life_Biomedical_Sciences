@@ -1,5 +1,6 @@
 sphinx
 recommonmark
+myst_parser
 sphinxcontrib-images
 sphinxcontrib-disqus
 sphinx_bootstrap_theme
