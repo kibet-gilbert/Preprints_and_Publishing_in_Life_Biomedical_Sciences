@@ -38,7 +38,7 @@ The overall objective of this lesson is to: 1) introduce the importance of commu
 
 1. PowerPoint slides
     1. Purpose: Prepared slides as a basis to design the lesson.
-    2. Link to [Slides](./Intro_Slides_052221.pdf) (Or alternatively in [Google Drive](https://docs.google.com/presentation/d/1sdJOiB-qUBY9PDHmymHrAxmabq_jVd2qZNF7S0Syc-I/edit?usp=sharing))
+    2. Link to Slides [PowerPoint](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Slides_052221.pptx) or [pdf](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-I_Intro/Intro_Slides_052221.pdf) (Or alternatively in [Google Drive](https://docs.google.com/presentation/d/1sdJOiB-qUBY9PDHmymHrAxmabq_jVd2qZNF7S0Syc-I/edit?usp=sharing))
 2. Manuscript Lifecyle illustrations
     1. Purpose: Visual aid to introduce the current publication process and broad topics of course. V2 presents preprinting and additional innovations as additional steps in the process.
     2. V1 Description: Visualization of the traditional, journal-based publication process: ![<img src="_images/Intro_Manuscript-lifecycle_V1.png" width="708.5px;" alt="Journal-based_publication_image"/>](Intro_Manuscript-lifecycle_V1.png)

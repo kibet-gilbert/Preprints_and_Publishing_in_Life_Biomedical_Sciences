@@ -42,7 +42,7 @@ By establishing what is a preprint and discussing the advantages and potential c
     3. [Preprints_Preprint-Guidelines](./Preprints_Preprint-Guidelines_2021_05_29.md) (Also available in [Google drive](https://docs.google.com/document/d/1KsJpno0y9AgLf1dqZxFxxZYxbw3lJKH0h8SjJruEVq4/edit?usp=sharing))
 2. Material 2 - Powerpoint slides corresponding to the Lesson Plan
     1. Educator can take these powerpoint slides and make the slides their own
-    2. [Link to Slides](./Preprints_Slides_2021_05_29.pdf) (Also available in [Google drive](https://docs.google.com/presentation/d/1FJJM7oCn3ano2f3kmF3VXSvjmRSiVBx5Liny3a12JtQ/edit?usp=sharing))
+    2. Link to Slides [Powerpoint](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-II_Preprints/Preprints_Slides_2021_05_29.pptx) or [pdf](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-II_Preprints/Preprints_Slides_2021_05_29.pdf) (Also available in [Google drive](https://docs.google.com/presentation/d/1FJJM7oCn3ano2f3kmF3VXSvjmRSiVBx5Liny3a12JtQ/edit?usp=sharing))
 3. Material 3 - Infographics of Preprints (created in 2020)
     1. Educator can hand out relevant information about preprints
     2. [Infographic_What are preprints?](https://asapbio.org/wp-content/uploads/2020/12/ASAPbio-what-are-preprints-english.pdf)

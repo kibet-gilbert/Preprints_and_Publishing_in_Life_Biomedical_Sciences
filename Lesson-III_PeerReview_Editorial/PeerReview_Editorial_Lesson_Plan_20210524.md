@@ -34,7 +34,7 @@ The goal of this lesson is to provide an overview of the manuscript lifecycle at
 
 
 1. **PowerPoint slides**
-    * [Link to Slides](./PeerReview_Editorial_20210524.pptx.pdf) (Also available in [Google Drive](https://drive.google.com/file/d/1y-Y_3o_hM-d3uqdJs8lYrFSj9f1vwcIq/view?usp=sharing))
+    * Link to Slides [PowerPoint](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-III_PeerReview_Editorial/PeerReview_Editorial_20210524.pptx) or [pdf](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-III_PeerReview_Editorial/PeerReview_Editorial_20210524.pptx.pdf) (Also available in [Google Drive](https://drive.google.com/file/d/1y-Y_3o_hM-d3uqdJs8lYrFSj9f1vwcIq/view?usp=sharing))
 2. **Peer review training exercise**
     * [Link to instructions](./PeerReview_Editorial_Teaching_Exercise_20210524.md) (Also available in [Google Drive](https://docs.google.com/document/d/16CkhEQtCR4YI6QcurGvJaobiOZZBzw4oEswNYqJaYBw/edit?usp=sharing))
 3. **Sample peer reviewer code of ethics/peer reviewer oath**

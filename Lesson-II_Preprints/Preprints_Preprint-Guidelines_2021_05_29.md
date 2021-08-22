@@ -1,8 +1,8 @@
-**<span style="text-decoration:underline;">Preprint General Guidelines </span>**
+# **<span style="text-decoration:underline;">Preprint General Guidelines </span>**
 
 **Disclaimer:** In this broad set of guidelines, we are focused on primary research articles that detail authors’ original research work, not review articles that offer an overview of a field.  _
 
-### **Section 1: What are the components of a preprint?**
+## **Section 1: What are the components of a preprint?**
 
 **Manuscript:** A preprint should have all the sections that are contained within a traditionally published peer review article that are fully fleshed out.  This set of guidelines will not cover all the necessary details of each section, as there are many resources that cover such topics in depth. Instead, we will focus on the most relevant information, specifically for preprints.
 
@@ -30,7 +30,7 @@ The following sections are necessary in preprints, as they are meant to be full 
     *   Are the conclusions well supported by the results, and not overanalyzed or misrepresented?
     *   Are you watching your writing style and word choice so that you are NOT exaggerating your findings, or the impact of your results?
 
-#### **Data and code availability**:
+### **Data and code availability**:
 Although optional and up to authors’ discretion, it is strongly recommended to share your data and the code that was used to analyze your data along with the preprint. Preprints are part of a wider spectrum of open and accessible science, and so making your data available to the public serves the greater purpose of making research available to all. If you choose to post your data and code, it is important to make sure that all website links correspond to the correct website page.
 
 
@@ -49,7 +49,7 @@ Although optional and up to authors’ discretion, it is strongly recommended to
     *   Are the links to the sites where the data and code have been deposited available?
     *   Do all links within the manuscript and the supplemental material actually link to the correct websites?
 
-### **Section 2: What are the steps in posting my preprint to a public server? **
+## **Section 2: What are the steps in posting my preprint to a public server?**
 
 Once a manuscript has been duly drafted, reviewed and approved by the authors, then the final step is to post it to a preprint server. At this last stage a few key considerations should be made to assist the author in making the right choices in posting the preprint.
 

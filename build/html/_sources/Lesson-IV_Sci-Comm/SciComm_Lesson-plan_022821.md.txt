@@ -28,9 +28,9 @@ To provide an overview of different platforms used for scientific communication 
 
 
 *   Powerpoint Slides
-    *   [Link to Slides](./SciComm_Slides_022821.pptx.pdf) (Also available in [Google Drive](https://drive.google.com/file/d/1lf8r3rPu2diqyvS4890C8aMuLh4G9d1t/view?usp=sharing))
+    *   Link to Slides [Powerpoint](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-IV_Sci-Comm/SciComm_Slides_022821.pptx) or [pdf](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-III_PeerReview_Editorial/PeerReview_Editorial_20210524.pptx.pdf) (Also available in [Google Drive](https://drive.google.com/file/d/1lf8r3rPu2diqyvS4890C8aMuLh4G9d1t/view?usp=sharing)
 *   Infographic - why scicomm?
-    *   [Link](./ASAPbio-how-to-communicate-preprint-ALL.pdf) (Also available in [Google Drive](https://drive.google.com/file/d/15Sn4Szya80phHoi_mlVp9teXInbo4KCh/view?usp=sharing))
+    *   [Link](https://github.com/kibet-gilbert/Preprints_and_Publishing_in_Life_Biomedical_Sciences/blob/master/Lesson-IV_Sci-Comm/ASAPbio-how-to-communicate-preprint-ALL.pdf) (Also available in [Google Drive](https://drive.google.com/file/d/15Sn4Szya80phHoi_mlVp9teXInbo4KCh/view?usp=sharing))
 *    Example twitter threads (real or mock)
     *   For when you release a new preprint/paper (twitter thread example)
 *   “How I work” type blog posts
@@ -150,16 +150,24 @@ Summarise the different platforms available and when each should be used
 Twitter thread example  - [https://twitter.com/JACoates91/status/1264505600538488832?s=20](https://twitter.com/JACoates91/status/1264505600538488832?s=20)
 
 **Additional Twitter thread examples:**
+
 Youtube video example - [https://www.youtube.com/watch?v=frsYEt3GAhA&feature=emb_title](https://www.youtube.com/watch?v=frsYEt3GAhA&feature=emb_title)
+
 How to make a youtube whiteboard video - [https://www.youtube.com/watch?v=H-Lod8oHOZ4](https://www.youtube.com/watch?v=H-Lod8oHOZ4)
+
 Guiding principles - [https://asapbio.org/public](https://asapbio.org/public)
+
 How I work blog posts - [https://lifehacker.com/c/how-i-work](https://lifehacker.com/c/how-i-work)
+
 How I work twitter account (specific to science productivity tips and tricks) - @howiwork_sci
+
 COVID vaccine communication handbook - [https://hackmd.io/@scibehC19vax/home](https://hackmd.io/@scibehC19vax/home)
+
 Preprints and the media - [https://kuleuvenblogt.be/2020/04/01/we-need-to-talk-about-preprints-how-not-to-deal-with-media/](https://kuleuvenblogt.be/2020/04/01/we-need-to-talk-about-preprints-how-not-to-deal-with-media/)
+
 On being a scientist A guide to responsible conduct in research - [https://www.nap.edu/download/12192](https://www.nap.edu/download/12192)
 
-Scientific communication guide [https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436](https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436)  
+Scientific communication guide [https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436](https://www.hindawi.com/resources/?utm_source=twitter&utm_medium=owned%20referral&utm_campaign=HDW_MRKT_GBL_AWA_TWTR_OWN_OSOC_HIND_X_10436)
 
 ## **Author:**
 
