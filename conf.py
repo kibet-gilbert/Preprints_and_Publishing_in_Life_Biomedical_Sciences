@@ -14,7 +14,7 @@ import os
 import sys
 import guzzle_sphinx_theme
 #from recommonmark.parser import CommonMarkParser
-#import myst_parser
+import myst_parser
 #sys.path.insert(0, os.path.abspath('.'))
 
 
